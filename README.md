@@ -1,4 +1,7 @@
 ### Hi there 👋
+Good day! I am Dongseung Park who is interested in Programing from South Korea
+
+if you want to contact me, please leave me a message!
 
 <!--
 **heyparkk/heyparkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
